@@ -1,0 +1,17 @@
+# Información de clientes: nunca al repositorio
+encargos/*
+!encargos/README.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Configuración personal de cada auditor
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Sistema
+.DS_Store
+Thumbs.db
+~$*
